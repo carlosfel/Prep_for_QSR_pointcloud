@@ -7,3 +7,7 @@
 ## https://github.com/NUAAXQ/awesome-point-cloud-analysis-2021
 
 # Pointnet
+
+## https://github.com/yanx27/Pointnet_Pointnet2_pytorch
+
+## https://github.com/fxia22/pointnet.pytorch
